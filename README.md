@@ -5,5 +5,5 @@ Aqui será exibido todo meu conteúdo com detalhes de criação desde o  inicio,
 - HTML 5
 - CSS 3
 - JS 
-- yarn 
+- SASS
 
