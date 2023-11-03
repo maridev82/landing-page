@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    margin-top: 20px;
+    
+}
+
+div:hover{
+    background-color: black;
+}
+
+#quadrado1{
+    background-color: blue;
+    border: 1px solid coral;
+}
+.rosa{
+    background-color: pink;
+}
